@@ -5,8 +5,6 @@ public class Main {
 
         int n;
 
-        //"n" Değerinin girilmesi.
-
         Scanner input = new Scanner(System.in);
         System.out.print("Sınır değerini giriniz: ");
         n=input.nextInt();
